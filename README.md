@@ -2,7 +2,7 @@ Hey
 
 - Building now: [Pain Tracker](https://pain-tracker.app) (solo product, 500+ weekly active users).
 - Work: [Brevo Conversations](https://www.brevo.com/products/conversations) and [Chatra](https://chatra.com)
-- Open-source projects: [Uibook](https://github.com/vrizo/uibook) (React component visual testing), [Ya Music Controls](https://github.com/vrizo/ya-music-controls) (web extension to control music player), [Whiteberries](https://github.com/vrizo/whiteberries) (dark marketing patterns blocker).
+- Open-source projects: [Uibook](https://github.com/vrizo/uibook) (React component visual testing), [Ya Music Controls](https://github.com/vrizo/ya-music-controls) (web extension to control music player), [Whiteberries](https://github.com/vrizo/whiteberries) (dark marketing patterns blocker), [Better Reviews for Amazon](https://github.com/vrizo/better-reviews-for-amazon) (userscript and browser extensions for clearer review signals on Amazon pages), [ChatGPT Bulk Exporter](https://github.com/vrizo/chatgpt-bulk-exporter) (userscript to export ChatGPT conversations in bulk).
 - Contact: [LinkedIn](https://www.linkedin.com/in/vitalii-rizo), [Email](mailto:vitalii.rizo@gmail.com).
 
 <br />
