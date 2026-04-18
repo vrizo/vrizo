@@ -10,8 +10,8 @@ Hey
   <a href="https://pain-tracker.app" title="Pain Tracker"><img src="assets/logos/pain-tracker.png" alt="Pain Tracker" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://www.brevo.com/products/conversations/" title="Brevo Conversations"><img src="assets/logos/brevo.jpg" alt="Brevo Conversations" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://chatra.com/" title="Chatra"><img src="assets/logos/chatra.png" alt="Chatra" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/vrizo/better-reviews-for-amazon" title="Better Reviews for Amazon"><img src="https://raw.githubusercontent.com/vrizo/better-reviews-for-amazon/main/src/icon.svg" alt="Better Reviews for Amazon" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/vrizo/chatgpt-bulk-exporter" title="ChatGPT Bulk Exporter"><img src="https://raw.githubusercontent.com/vrizo/chatgpt-bulk-exporter/main/logo.png" alt="ChatGPT Bulk Exporter" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/vrizo/better-reviews-for-amazon" title="Better Reviews for Amazon"><img src="https://raw.githubusercontent.com/vrizo/better-reviews-for-amazon/main/src/icon.svg" alt="Better Reviews for Amazon" width="48" height="48" style="display: inline-block;" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/vrizo/chatgpt-bulk-exporter" title="ChatGPT Bulk Exporter"><img src="https://raw.githubusercontent.com/vrizo/chatgpt-bulk-exporter/main/logo.png" alt="ChatGPT Bulk Exporter" width="48" height="48" style="display: inline-block;" /></a>&nbsp;&nbsp;
   <a href="https://github.com/vrizo/uibook" title="Uibook"><img src="assets/logos/uibook.png" alt="Uibook" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://github.com/vrizo/ya-music-controls" title="Ya Music Controls"><img src="assets/logos/ya-music-controls.png" alt="Ya Music Controls" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="https://github.com/vrizo/whiteberries" title="Whiteberries"><img src="assets/logos/whiteberries.png" alt="Whiteberries" width="48" height="48" /></a>
